@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14181F"/>
+      <stop offset="100%" stop-color="#1F2733"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)"/>
+  <circle cx="200" cy="160" r="70" fill="#0EA5A0" opacity="0.15"/>
+  <circle cx="200" cy="150" r="55" fill="#0EA5A0"/>
+  <path d="M100 330c10-70 65-100 100-100s90 30 100 100" fill="#0EA5A0" opacity="0.85"/>
+  <text x="200" y="380" font-family="JetBrains Mono, monospace" font-size="14" fill="#E3A008" text-anchor="middle">&lt;M.U.Chary/&gt;</text>
+</svg>

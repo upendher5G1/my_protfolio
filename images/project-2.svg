@@ -1,0 +1,20 @@
+<svg viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fraud Detection preview">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#171B22"/>
+      <stop offset="100%" stop-color="#1F2733"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#g2)"/>
+  <rect x="0" y="0" width="600" height="36" fill="#11151B"/>
+  <circle cx="20" cy="18" r="6" fill="#E4572E"/>
+  <circle cx="42" cy="18" r="6" fill="#E3A008"/>
+  <circle cx="64" cy="18" r="6" fill="#0EA5A0"/>
+  <text x="300" y="24" font-family="JetBrains Mono, monospace" font-size="13" fill="#5B6472" text-anchor="middle">project_02.py</text>
+  <text x="40" y="110" font-family="JetBrains Mono, monospace" font-size="16" fill="#5B6472">01  import project</text>
+  <text x="40" y="140" font-family="JetBrains Mono, monospace" font-size="16" fill="#E4572E">02  # Fraud Detection</text>
+  <text x="40" y="170" font-family="JetBrains Mono, monospace" font-size="16" fill="#5B6472">03  run(status="live")</text>
+  <rect x="40" y="210" width="520" height="10" rx="5" fill="#2A3340"/>
+  <rect x="40" y="210" width="380" height="10" rx="5" fill="#E4572E"/>
+  <text x="300" y="300" font-family="Space Grotesk, sans-serif" font-size="26" fill="#F3F5F7" text-anchor="middle" font-weight="700">Fraud Detection</text>
+</svg>
